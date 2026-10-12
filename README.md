@@ -2,7 +2,7 @@
 
 I build end-to-end machine learning projects on real-world data — from data collection and careful evaluation to APIs, dashboards and automated tests. My work covers forecasting, recommendation, NLP and data engineering.
 
-Statistics graduate (AUEB), currently studying for an MSc at Deree. Open to junior Data Science.
+Statistics graduate (AUEB), currently studying for an MSc at Deree.
 
 ### Featured projects
 
