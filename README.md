@@ -1,6 +1,8 @@
 ## Konstantinos Traganos
 
-I build machine learning systems for electricity grid problems. I work in operations monitoring at HEDNO, Greece's electricity distribution network operator, and I'm completing an MSc in Data Science at Deree, after a BSc in Statistics from AUEB.
+I build end-to-end machine learning projects on real-world data — from data collection and careful evaluation to APIs, dashboards and automated tests. My work covers forecasting, recommendation, NLP and data engineering.
+
+Statistics graduate (AUEB), currently studying for an MSc at Deree. Open to junior Data Science.
 
 ### Featured projects
 
